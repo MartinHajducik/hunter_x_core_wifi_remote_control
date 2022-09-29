@@ -22,7 +22,7 @@ How to make it run , step by step:
 
 == API ==
 
-It is also possible to control your unit over API
+It is also possible to control your unit over API - dont forget to send also Basic HTTP Authentication header with you username and password.
 
 http://<your_ip_address>:<port>/update?zone=<zone_number>&time=<number_from_0_to_240>
 
