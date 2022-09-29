@@ -20,5 +20,11 @@ How to make it run , step by step:
 1) Download source code
 
 
+== API ==
+
+It is also possible to control your unit over API
+
+http://<your_ip_address>:<port>/update?zone=<zone_number>&time=<number_from_0_to_240>
+
 
 
